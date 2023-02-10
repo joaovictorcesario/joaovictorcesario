@@ -8,5 +8,5 @@
 
 
 ## tecnologias que utilizo em meu dia a dia
-<div style="display: insline_block"><br/>
-<img align="center" alt="html5" src=""/>
+<div style="display: insline_block"><br/><img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
