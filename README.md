@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**joaovictorcesario/joaovictorcesario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá ! Me chamo João Victor 
+![Alt text](https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png)[![instagram](https://img.shields.io/badge/joao_hllw-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorcesario&show_icons=true&theme=tokyonight)
+
+
+## tecnologias que utilizo em meu dia a dia
+<div style="display: insline_block"><br/>
+<img align="center" alt="html5" src=""/>
+
